@@ -1,0 +1,13 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local backups exported from the app
+dominfo-backup-*.zip
+
+# Screenshots are optional; keep the ones referenced by the README
+# (comment the next line out if you don't want any screenshots tracked)
+# screenshots/
